@@ -5,6 +5,7 @@ export declare const BILLION = 1000000000;
 export declare const MINUTE_S = 60;
 export declare const HOUR_S: number;
 export declare const DAY_S: number;
+export declare const SECOND_MS = 1000;
 export declare const MINUTE_MS: number;
 export declare const HOUR_MS: number;
 export declare const DAY_MS: number;
